@@ -1,0 +1,3 @@
+def calculate_square_footage(length, width):
+    """Calculate the square footage of a house given its length and width."""
+    return length * width
